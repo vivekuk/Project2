@@ -69,6 +69,31 @@ The plots below provide some sample analysis on the scraped data:
 
 ![Rating Distribution](visualizations/rating_distribution.png)
 
+Description: 
+Distribution of Movie Ratings
+
+This bar graph shows the distribution of movie ratings in the United States. The most common movie rating is PG, followed by PG-13, TV-14, and TV-G. The least common movie ratings are TV-MA, R, and Not Rated.
+
+PG movies are the most common type of movie released.
+PG-13 movies are also very common, but they are slightly less common than PG movies.
+R movies are the second least common type of movie released 
+
 ![Runtime For Different Genres](visualizations/runtime_by_genre.png)
 
+Description:
+Runtime Distribution Across Genres
+
+This graph shows the average runtime of movies in each genre, as well as the range of runtimes within each genre. The genres are listed on the y-axis, and the runtimes are listed on the x-axis.
+The average runtime of movies varies widely across genres. For example, documentaries have an average runtime of 87 minutes, while musicals have an average runtime of 122 minutes.
+The range of runtimes within each genre is also large. For example, the shortest documentary is 25 minutes long, while the longest is 164 minutes long.
+However, there are some trends in the data. For example, comedies tend to be shorter than dramas, and action movies tend to be longer than documentaries.
+
 ![Year Wise Movie Distributions](visualizations/year_distribution.png)
+
+Decription: 
+
+Distribution of Movie Years
+
+This graph shows the distribution of movie years, based on the release dates of over 100,000 movies. The x-axis shows the movie year, and the y-axis shows the number of movies released in that year. It shows the most movies were released in the 1980s, followed by the 1990s, the 2000s, and the 2010s. The fewest movies were released in the 1920s and 1930s.
+The global film industry has grown significantly over time.
+
