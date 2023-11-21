@@ -66,3 +66,6 @@ Basic steps to use:
 ## Visualizations
 
 The plots below provide some sample analysis on the scraped data:
+
+
+![Rating Distribution](visualizations/rating_distribution.png)
