@@ -69,3 +69,7 @@ The plots below provide some sample analysis on the scraped data:
 
 
 ![Rating Distribution](visualizations/rating_distribution.png)
+
+![Runtime For Different Genres](visualizations/runtime_by_genre.png)
+
+![Year Wise Movie Distributions](visualizations/year_distribution.png)
