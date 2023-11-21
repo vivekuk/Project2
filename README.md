@@ -22,11 +22,11 @@ Overview: The RedditAPIFetcher class handles making the API request and converti
 
 Key features:
 
-Specify subreddit and number of posts to retrieve
-Makes API request to retrieve posts
-Extracts post data into a dictionary
-Stores post data in a Pandas DataFrame
-Returns the DataFrame and saves to a CSV file
-Usage
+1. Specify subreddit and number of posts to retrieve
+2. Makes API request to retrieve posts
+3. Extracts post data into a dictionary
+4. Stores post data in a Pandas DataFrame
+5. Returns the DataFrame and saves to a CSV file
+6. Usage
 
 
