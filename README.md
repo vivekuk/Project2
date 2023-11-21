@@ -67,7 +67,7 @@ Basic steps to use:
 The plots below provide some sample analysis on the scraped data:
 
 
-![Rating Distribution](visualizations/rating_distribution.png)
+![Rating Distribution](visualizations/rating_distribution.png).
 
 Description: 
 Distribution of Movie Ratings
@@ -78,7 +78,7 @@ PG movies are the most common type of movie released.
 PG-13 movies are also very common, but they are slightly less common than PG movies.
 R movies are the second least common type of movie released 
 
-![Runtime For Different Genres](visualizations/runtime_by_genre.png)
+![Runtime For Different Genres](visualizations/runtime_by_genre.png).
 
 Description:
 Runtime Distribution Across Genres
@@ -88,7 +88,7 @@ The average runtime of movies varies widely across genres. For example, document
 The range of runtimes within each genre is also large. For example, the shortest documentary is 25 minutes long, while the longest is 164 minutes long.
 However, there are some trends in the data. For example, comedies tend to be shorter than dramas, and action movies tend to be longer than documentaries.
 
-![Year Wise Movie Distributions](visualizations/year_distribution.png)
+![Year Wise Movie Distributions](visualizations/year_distribution.png).
 
 Decription: 
 
