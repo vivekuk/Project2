@@ -28,8 +28,7 @@ Key features:
 4. Stores post data in a Pandas DataFrame
 5. Returns the DataFrame and saves to a CSV file
 
-##Task - 3:
-Here is a draft README for the movie data scraper:
+## Task - 3:
 
 # Movie Data Scraper
 
