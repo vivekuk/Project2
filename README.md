@@ -27,6 +27,4 @@ Key features:
 3. Extracts post data into a dictionary
 4. Stores post data in a Pandas DataFrame
 5. Returns the DataFrame and saves to a CSV file
-6. Usage
-
 
