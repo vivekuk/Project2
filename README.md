@@ -28,3 +28,41 @@ Key features:
 4. Stores post data in a Pandas DataFrame
 5. Returns the DataFrame and saves to a CSV file
 
+##Task - 3:
+Here is a draft README for the movie data scraper:
+
+# Movie Data Scraper
+
+This program scrapes movie data from the IMDb API and analyzes it.
+
+## Overview
+
+The `MovieDataScraper` class handles:
+
+- Querying the API to get movie IDs and details
+- Scraping data for multiple movies into a Pandas DataFrame
+- Saving the DataFrame to a CSV
+- Generating plots for analysis
+
+## Methodology
+
+- The IMDb API is used to search for movie IDs and fetch details 
+- Movie IDs are retrieved in batches using pagination
+- Details are fetched for each ID to build the final dataset
+- Plots are generated using Matplotlib and Seaborn
+  
+## Usage
+
+Basic steps to use:
+
+1. Instantiate `MovieDataScraper` 
+2. Call `scrape_movies_data()` with a search query 
+3. Access the returned DataFrame
+4. Call data visualization methods for analysis plots
+5. Call `save_movies_data_csv()` to export data
+
+
+
+## Visualizations
+
+The plots below provide some sample analysis on the scraped data:
